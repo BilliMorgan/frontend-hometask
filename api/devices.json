@@ -1,0 +1,32 @@
+{
+  "data":[
+    {
+      "type":"lock",
+      "attributes":{
+        "name":"Home",
+        "power_source":"alkaline_battery",
+        "connected_at":"2019-04-10T08:02:36Z",
+        "firmware_version":"5.01.181217.1",
+        "serial_number":"AC000W001635336",
+        "programming_code":"2806",
+        "state":"locked",
+        "model_number":"BG (LS-3i)"
+      },
+      "id":"457dd414-9661-4aad-8cf4-3fbd1aea2653"
+    },
+    {
+      "type":"lock",
+      "attributes":{
+        "name":"Office",
+        "power_source":"lithium_battery",
+        "connected_at":"2019-05-18T17:00:51Z",
+        "firmware_version":"5.01.181217.1",
+        "serial_number":"AC000W001247822",
+        "programming_code":"1993",
+        "state":"unlocked",
+        "model_number":"RG (LS-5i)"
+      },
+      "id":"1e25c504-bb7b-4f75-9a98-3bd90d63b802"
+    }
+  ]
+}
